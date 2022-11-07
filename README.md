@@ -1,8 +1,8 @@
-Это проект для тестирования UI с помощью Selenium и Python.
+This is a UI testing project with Selenium and Python.
 
-Он содержит паттерны скриптонаписания, имитирующие определенные действия пользователя.
+The pattern folder contains scripting patterns that emulate certain user actions.
 
-В качестве браузера использовался Google Chrome версии 107.0.5304.88.
+The browser used was Google Chrome version 107.0.5304.88.
 
-Webdriver для любой версии Google Chrome можно скачать тут:
+Webdriver for any version of Google Chrome can be downloaded here:
 [Link to the Chrome Webdriver](https://chromedriver.chromium.org/downloads)
